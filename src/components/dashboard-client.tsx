@@ -2,8 +2,8 @@
 
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import { ProgressBar } from "@/components/progress-bar";
-import { QuizModal } from "@/components/quiz-modal";
+import { ProgressBar } from "@/components/components/progress-bar";
+import { QuizModal } from "@/components/components/quiz-modal";
 import type { UserProgressSummary } from "@/lib/progress";
 
 export function DashboardClient({
