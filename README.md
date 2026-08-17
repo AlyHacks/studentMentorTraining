@@ -1,5 +1,5 @@
 # Curriculum Tracker (written by claude, change later)
-
+Edit
 An interactive website for tracking curriculum completion across five program
 components: **Programming**, **CAD**, **Presentational Skills**, **Onboarding
 Program**, and **Scenario Quest**.
